@@ -43,7 +43,7 @@ The following assumptions are made about the phyical CORD POD being deployed:
 - The compute node that is to be designated the *head node* has
 **Ubuntu 14.04 LTS** installed. In addition, the user should have **password-less sudo permission**.
 
-**Prerequisite: Vagrant is installed and operational.**
+**Prerequisite: Vagrant >=1.8 is installed and operational.**
 **Note:** *This quick start guide has only been tested against Vagrant and
 VirtualBox, specially on MacOS.*
 
